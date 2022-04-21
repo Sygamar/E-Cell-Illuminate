@@ -1,6 +1,6 @@
 import React from 'react';
 import ai from '../../assets/brain.webp';
-import './header.css'; 
+import './header.css';
 import samplePdf from '../../assets/Illuminate.pdf';
 
 const Header = () => (
