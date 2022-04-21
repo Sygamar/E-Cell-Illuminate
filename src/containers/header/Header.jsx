@@ -15,7 +15,7 @@ const Header = () => (
           </button>
         </a>
         <a href={samplePdf} download="Illuminate 2022" target="_blank" rel="noopener noreferrer">
-          <button type="button">Download Brouchre</button>
+          <button type="button">Download Brochure</button>
         </a>
       </div>
 
